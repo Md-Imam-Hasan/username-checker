@@ -46,7 +46,7 @@ group :development, :test do
   gem "rubocop-rails-omakase", require: false
 
   gem 'bitarray' # For Bloom Filter
-  gem 'redis', '~> 4.0'
+  gem 'redis', '~> 5.4'
   gem 'hiredis', '~> 0.6' # For better Redis performance
 
   gem 'faker', '~> 2.23'
