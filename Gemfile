@@ -49,5 +49,5 @@ group :development, :test do
   gem 'redis', '~> 4.0'
   gem 'hiredis', '~> 0.6' # For better Redis performance
 
-  gem 'faker', '~> 2.23'
+  gem 'faker', '~> 3.5'
 end
